@@ -181,3 +181,4 @@ LIMIT 3;
 
 -- En az siparis veren ilk 3 musteri kimlerdir. Daha fazla uzerine dusun .Indirim yapin
 
+gizem
